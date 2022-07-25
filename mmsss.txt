@@ -1,0 +1,3 @@
+Thsis file created from cmd
+abc.txt
+
